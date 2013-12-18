@@ -3,11 +3,10 @@ ember testing example showing:
 1.) unit tests for model computed property
 2.) integration tests to verify bound models render correctly
 
-To run the javascript tests
+To run the javascript tests with karma
 
     npm install
-    export PATH="./node_modules/.bin:$PATH"
-    karma start
+    ./node_modules/karma/bin/karma start
 
 
 To run the ember.js web app

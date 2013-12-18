@@ -3,7 +3,7 @@
     "bower": "*",
     "karma-ember-preprocessor": "*",
     "karma-qunit": "*",
-    "karma": "0.10.2"
+    "karma": "0.11.9"
   },
   "scripts": {
     "postinstall": "bower install"
